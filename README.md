@@ -3,3 +3,4 @@
 # https://github.com/tesa-klebeband/RTL8720dn-Deauther
 # https://github.com/A3ST1CODE/RTL8720DN-Captive
 # https://github.com/khoih-prog/FlashStorage_RTL8720
+# ERASER tool from https://github.com/Cancro29/NETHERCAP
