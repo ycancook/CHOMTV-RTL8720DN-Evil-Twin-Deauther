@@ -1,4 +1,5 @@
 # CHOMTV-RTL8720DN-Evil-Twin-Deauther
+## Default Local IP: 172.0.0.1
 ## Default SSID: CHOMTV
 ## Default PASS: @@@@2222
 ## Restore defaults: Hold 10s Burn button
