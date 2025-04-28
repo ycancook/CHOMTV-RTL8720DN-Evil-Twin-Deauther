@@ -1,4 +1,5 @@
 # CHOMTV-RTL8720DN-Evil-Twin-Deauther
+## Instruct: https://youtu.be/7pxITkirF0M
 ## Default Local IP: 172.0.0.1
 ## Default SSID: CHOMTV
 ## Default PASS: @@@@2222
