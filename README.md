@@ -3,7 +3,8 @@
 ## Default SSID: CHOMTV
 ## Default PASS: @@@@2222
 ## Restore defaults: Hold 10s Burn button
-# Relies on the following libraries:
+## Note: The jammer function needs to be connected to the ESP32 module to work
+# Relies on the following libraries (Thank All):
 ## https://github.com/tesa-klebeband/RTL8720dn-Deauther
 ## https://github.com/A3ST1CODE/RTL8720DN-Captive
 ## https://github.com/khoih-prog/FlashStorage_RTL8720
