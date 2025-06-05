@@ -11,6 +11,9 @@
 ## https://github.com/khoih-prog/FlashStorage_RTL8720
 # ERASER tool from :
 ## https://github.com/Cancro29/NETHERCAP
+# HTML Captive Web Portal
+## https://github.com/Developerres/Tutorials/tree/master
+## https://github.com/Cancro29/NETHERCAP/tree/main/HTML%20Pages
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091511.png)
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091638.png)
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091718.png)
