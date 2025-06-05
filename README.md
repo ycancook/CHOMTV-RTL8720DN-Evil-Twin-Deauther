@@ -23,4 +23,4 @@
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170221.png)
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170237.png)
 # Disclaimer
-### This is only educational firmware to test for network security vulnerabilities, not for business purposes. Anyone who abuses this firmware for illegal purposes will be fully responsible before the law of the place where they live. I will not be responsible for any bad behavior caused by users.
+### This is only educational firmware to test for network security vulnerabilities, not for business purposes. Anyone who abuses this firmware for illegal purposes will have to bear full responsibility. I will not be responsible for any bad behavior caused by users.
