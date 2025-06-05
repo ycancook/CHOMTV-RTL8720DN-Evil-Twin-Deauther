@@ -11,3 +11,4 @@
 ## https://github.com/khoih-prog/FlashStorage_RTL8720
 # ERASER tool from :
 ## https://github.com/Cancro29/NETHERCAP
+![Scheme](Screenshot 2025-04-28 091511.png)
