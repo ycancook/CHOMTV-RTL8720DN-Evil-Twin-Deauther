@@ -12,3 +12,10 @@
 # ERASER tool from :
 ## https://github.com/Cancro29/NETHERCAP
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091511.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091638.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091718.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091733.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-04-28%20091750.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170152.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170221.png)
+![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170237.png)
