@@ -23,7 +23,23 @@
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170221.png)
 ![Scheme](https://github.com/ycancook/CHOMTV-RTL8720DN-Evil-Twin-Deauther/blob/main/Screenshot%202025-06-05%20170237.png)
 
+💡 This is a **beta version** of my RTL8720DN project.
+
+If you find it useful and would like to support my work, you can **donate $10 or more** via.
+
 <a href="https://www.buymeacoffee.com/h3r2015p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+🎁 In return, I will send you the **full version of the source code**, which includes:
+- Additional features not available in this beta
+- Cleaner structure, better documentation
+- Updates and private support (optional)
+
+🛠 To receive the full code:
+1. Donate at least $10.
+2. Include your **email** or **GitHub username** in the note/message.
+3. I’ll send you the full version within 24 hours.
+
+Thanks for your support! ❤️
 
 📜 DISCLAIMER
 
