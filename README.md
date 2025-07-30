@@ -27,8 +27,6 @@
 
 If you find it useful and would like to support my work, you can **donate $10 or more** via.
 
-<a href="https://www.buymeacoffee.com/h3r2015p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 🎁 In return, I will send you the **full version of the source code**, which includes:
 - Additional features not available in this beta
 - Cleaner structure, better documentation
