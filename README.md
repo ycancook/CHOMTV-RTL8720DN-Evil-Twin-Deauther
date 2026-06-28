@@ -32,10 +32,13 @@ If you find it useful and would like to support my work, you can **donate $10 or
 - Cleaner structure, better documentation
 - Updates and private support (optional)
 
-🛠 To receive the full code:
-1. Donate at least $10.
-2. Include your **email** or **GitHub username** in the note/message.
-3. I’ll send you the full version within 24 hours.
+## ❤️ Donate / Ủng hộ /  Поддержать / 捐赠
+- If you find this app useful and want to support its development, you can donate via:
+- Nếu bạn thấy ứng dụng hữu ích và muốn hỗ trợ phát triển, bạn có thể donate cho tôi qua:
+- Если приложение вам полезно и вы хотите поддержать разработку, вы можете пожертвовать:
+- 如果您觉得这个应用对您有帮助，并想支持开发者，可以通过以下方式捐赠：
+![Screenshot 9](https://github.com/ycancook/TV_Browser/blob/main/OKX_1780318902779.jpg)
+![Screenshot 9](https://github.com/ycancook/TV_Browser/blob/main/OKX_1780318916856.jpg)
 
 Thanks for your support! ❤️
 
