@@ -37,6 +37,7 @@ If you find it useful and would like to support my work, you can **donate $10 or
 - Nếu bạn thấy ứng dụng hữu ích và muốn hỗ trợ phát triển, bạn có thể donate cho tôi qua:
 - Если приложение вам полезно и вы хотите поддержать разработку, вы можете пожертвовать:
 - 如果您觉得这个应用对您有帮助，并想支持开发者，可以通过以下方式捐赠：
+## Paypal: https://www.paypal.me/h3r2015
 ![Screenshot 9](https://github.com/ycancook/TV_Browser/blob/main/OKX_1780318902779.jpg)
 ![Screenshot 9](https://github.com/ycancook/TV_Browser/blob/main/OKX_1780318916856.jpg)
 
